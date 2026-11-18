@@ -1,7 +1,7 @@
 {
   "name": "busybar-chore-auction",
   "private": true,
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Let two people bid on three chores privately, then split the work by estimated effort.",
   "author": "ncoooooper",
   "type": "module",
