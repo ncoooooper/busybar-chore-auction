@@ -1,0 +1,12 @@
+{
+  "format_version": 1,
+  "version": 1,
+  "fields": {
+    "chores": {
+      "type": "string",
+      "label": "Three chores",
+      "default": "Dishes,Shopping,Laundry",
+      "max_length": 80
+    }
+  }
+}

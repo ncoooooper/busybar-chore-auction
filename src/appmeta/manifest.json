@@ -4,6 +4,6 @@
   "name": "Chore Auction",
   "version": "0.1.0",
   "api_version": "27.12.0",
-  "description": "Chore Auction",
+  "description": "Let two people bid on three chores privately, then split the work by estimated effort.",
   "author": "ncoooooper"
 }
