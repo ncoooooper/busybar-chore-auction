@@ -17,7 +17,7 @@
   "frames": 54,
   "distinct_frames": 36,
   "exit": "App io.ncoooooper.choreauction exited: finished; heap peak 83.5 of 128 KiB",
-  "sha256": "df870fc897b99853a719dd4cd38592186993191103bc8dc3260336f9d70935a7",
+  "sha256": "2b1e19ff0112cb766ebe8fda710d26ed66d9239824e3e6b02b5e5475176a48f5",
   "display_test": {
     "firmware": "1.3.1",
     "input": "On-device controls",
@@ -39,9 +39,9 @@
     ],
     "frames": 192,
     "distinct_by_flow": [
-      24,
-      24
+      4,
+      4
     ],
-    "exit": "App io.btype.choreauction exited: finished; heap peak 89.2 of 128 KiB"
+    "exit": "App io.btype.choreauction exited: finished; heap peak 87.0 of 128 KiB"
   }
 }
